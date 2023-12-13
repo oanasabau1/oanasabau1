@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm oanasabau1</h1>
-<h3 align="center">🌱 Passionate and Ambitious third-year Computer Science Student at TUCN, continuing to learn and progress</h3>
+<h3 align="center">🌱 Passionate third-year Computer Science Student at TUCN, continuing to learn and progress</h3>
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
